@@ -1,0 +1,6 @@
+apiVersion: v2
+name: devx-helloworld-springboot-x9iea
+description: Chart for creating devx-helloworld-springboot-x9iea and ingress mapping our Flexport EKS clusters
+
+type: application
+version: 0.1.0
